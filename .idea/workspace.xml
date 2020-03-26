@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9887e869-6373-4313-8e5a-602de2171afe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZG6iNuw2RnQ2zdEGJNitR0GReN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\AAAAAAAAAAAAA\Workspace\Portfolio\Portfolio\img" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9887e869-6373-4313-8e5a-602de2171afe" name="Default Changelist" comment="" />
+      <created>1584453209445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584453209445</updated>
+      <workItem from="1584453212315" duration="798000" />
+      <workItem from="1584538413388" duration="11913000" />
+      <workItem from="1584609194765" duration="612000" />
+      <workItem from="1584945210937" duration="724000" />
+      <workItem from="1584952119689" duration="4052000" />
+      <workItem from="1584975436568" duration="2085000" />
+      <workItem from="1585055146580" duration="11293000" />
+      <workItem from="1585151252736" duration="900000" />
+      <workItem from="1585214683891" duration="9884000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="165" key="SettingsEditor" timestamp="1584953908833">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040/-1920.10.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1584953908833" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1585220227773">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.10.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1585220227773" />
+  </component>
+</project>
