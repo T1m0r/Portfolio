@@ -162,10 +162,10 @@ footer{
 .social-button--github::after {
     background: #6e5494;
 }
-.social-button--codepen {
+.social-button--code {
     color: #212121;
 }
-.social-button--codepen::after {
+.social-button--code::after {
     background: #212121;
 }
 
