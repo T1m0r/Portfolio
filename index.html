@@ -289,7 +289,7 @@
                     <div class="form-row">
                         <div class="form-group col-md-6">
                             <label hidden or="NameField">Name</label>
-                            <input id="NameField" type="text" class="form-control" placeholder="Name*" required>
+                            <input id="NameField" name="name" type="text" class="form-control" placeholder="Name*" required>
                         </div>
                         <div class="form-group col-md-6">
                             <label hidden for="EmailField">Email</label>
@@ -302,12 +302,11 @@
                     </div>
                     <div class="form-group">
                         <label hidden for="MessageField">Nachricht</label>
-                        <textarea id="MessageField" type="text" rows="6" class="form-control" placeholder="Nachricht*" required></textarea>
+                        <textarea id="MessageField" type="text" name="message" rows="6" class="form-control" placeholder="Nachricht*" required></textarea>
                     </div>
                     <div class="form-row justify-content-center">
-                        <button type="submit" class="btn btn-lg btn-primary">Senden</button>
-                        <button type="submit" class="button pageclip-form__submit">
-                            <span>Send</span>
+                        <button type="submit" class="btn btn-primary pageclip-form__submit">
+                            <span>Senden</span>
                         </button>
                     </div>
                 </form>
@@ -373,6 +372,14 @@
             }  // End if
         });
     });
+    //Customizing the contact verification text
+    var form = document.querySelector('.pageclip-form')
+    Pageclip.form(form, {
+        onSubmit: function (event) { },
+        onResponse: function (error, response) { },
+        successTemplate: '<span>Vielen Dank</span>'
+    })
+
 </script>
 </body>
 </html>
