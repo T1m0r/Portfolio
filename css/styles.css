@@ -4,9 +4,20 @@ body{
 .about{
     background-color: #65C9FF;
 }
+.aboutme-text{
+    display: inline-block;
+}
+.aboutme-text-center{
+    text-align: start;
+}
+@media only screen and (max-width: 767px ) {
+    .aboutme-text-center{
+        text-align: center;
+    }
+}
 .skills{
     background: rgb(101,201,255);
-    background: linear-gradient(180deg, rgba(101,201,255,1) 0%, rgba(101,201,255,1) 42%, rgba(255,255,255,1) 42%, rgba(255,255,255,1) 100%);
+    background: linear-gradient(180deg, rgba(101,201,255,1) 0%, rgba(101,201,255,1) 46%, rgba(255,255,255,1) 46%, rgba(255,255,255,1) 100%);
 }
 .f-medium{
     font-size: 1.2rem;
