@@ -2,10 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9887e869-6373-4313-8e5a-602de2171afe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/documents/Jakob_Kreutner_Lebenslauf.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documents/LebenslaufDE.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/DiploCover-min.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/DiploCover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/DiploCoverOld.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Portfolio-min.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Portfolio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/computer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/me.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/me_rounded.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/me_rounded_270x259.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio_md_blue (1).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio_md_blue (2).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio_md_blue (3).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio_md_blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio_md_blue.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +89,7 @@
       <workItem from="1587398777821" duration="4680000" />
       <workItem from="1587492693364" duration="1966000" />
       <workItem from="1587536298155" duration="9784000" />
-      <workItem from="1588174092447" duration="143000" />
+      <workItem from="1588174092447" duration="1421000" />
     </task>
     <servers />
   </component>
