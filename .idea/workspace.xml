@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9887e869-6373-4313-8e5a-602de2171afe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.en.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.en.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documents/Jakob_Kreutner_Lebenslauf.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/documents/Jakob_Kreutner_Lebenslauf.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,18 +30,18 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/documents" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\AAAAAAAAAAAAA\Workspace\Portfolio\Portfolio\documents" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\AAAAAAAAAAAAA\Workspace\Portfolio\Portfolio" />
       <recent name="D:\AAAAAAAAAAAAA\Workspace\Portfolio\Portfolio\documents" />
+      <recent name="D:\AAAAAAAAAAAAA\Workspace\Portfolio\Portfolio" />
       <recent name="D:\AAAAAAAAAAAAA\Workspace\Portfolio\Portfolio\img" />
       <recent name="D:\AAAAAAAAAAAAA\Workspace\Portfolio\Portfolio\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\AAAAAAAAAAAAA\Workspace\Portfolio\Portfolio\documents" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -76,7 +76,10 @@
       <workItem from="1587398777821" duration="4680000" />
       <workItem from="1587492693364" duration="1966000" />
       <workItem from="1587536298155" duration="9784000" />
-      <workItem from="1588174092447" duration="1583000" />
+      <workItem from="1588174092447" duration="2770000" />
+      <workItem from="1588776007172" duration="2728000" />
+      <workItem from="1589309364560" duration="1210000" />
+      <workItem from="1589355472595" duration="78000" />
     </task>
     <servers />
   </component>
@@ -88,6 +91,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/1920.0.1920.1040/-1600.-12.1600.860@0.0.1920.1040" timestamp="1586507471468" />
+    <state x="-1070" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589355508540">
+      <screen x="-1600" y="-12" width="1600" height="860" />
+    </state>
+    <state x="-1070" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040/-1600.-12.1600.860@-1600.-12.1600.860" timestamp="1589355508540" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1586769010212">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
